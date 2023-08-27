@@ -1,4 +1,4 @@
-#Laravel Project.
+<h1>Laravel Project</h1>
 
-##not the one you are looking for.
-### It is a half way done project.
+<h2>Not the one you are looking for</h2>
+<h3>It is a half way done Project</h3>
